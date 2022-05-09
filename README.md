@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @devwonyou
+- 👀 I’m interested in Data Science and Machine Learning
+- 🌱 I’m currently learning Data Science through the awesome-datascience repository
+- 💞️ I’m looking to collaborate in the future when I've learned enough!
+- 📫 Reach me via making a pull request in this repository so I can contact you on your email! (while I have not set up my email)
